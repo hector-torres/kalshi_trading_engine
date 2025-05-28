@@ -1,6 +1,6 @@
 # Kalshi Trading Engine
 
-This collection of notebooks is used to extract and analyze market data from the Kalshi prediction market. 
+This codebase constitutes a proof of concept to extract and analyze market data from the Kalshi prediction market. 
 
 ## Glossary
  - Market: A single binary market.
