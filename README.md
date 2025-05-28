@@ -1,4 +1,4 @@
-# README
+# Kalshi Trading Engine
 
 This collection of notebooks is used to extract and analyze market data from the Kalshi prediction market. 
 
